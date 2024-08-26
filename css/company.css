@@ -1,0 +1,32 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 279px;
+  }
+  table, th, td {
+    border: 8px solid black;
+    border-collapse: collapse;
+    border-color: cadetblue;
+    border-width: 10px;
+  }
+  table{
+    border-spacing: 30px;
+  }
+  th{
+    height: 10px;
+    text-align:center;
+  }
+    table.center {
+        margin-left: auto; 
+        margin-right: auto;
+      }
+      .drdown {  
+    display: inline-block;  
+    position: relative  
+}  
+.im{
+  float:left;
+  width: 400px;
+  height:400px;
+}
